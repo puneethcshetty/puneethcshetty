@@ -10,6 +10,3 @@ Skills: Java/ PHP/ Python/ JavaScript/ MongoDB/ Spring (Boot, MVC, Data, Batch)/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/puneethcshetty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/puneethcshetty//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/puneeth_c_shetty/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/puneethshetty/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/puneethcshetty&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/puneethcshetty)  
