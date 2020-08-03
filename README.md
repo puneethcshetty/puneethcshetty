@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Puneeth Shetty
+#### Developer
+I'm a IT Professional with 3+ years of experience in Analysis, Design, Development and Implementation with a strong background in JAVA development.
 
-<!--
-**puneethcshetty/puneethcshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Java/ PHP/ Python/ JavaScript/ MongoDB/ Spring (Boot, MVC, Data, Batch)/ Hibernate/ Bootstrap/ Django/ HTML5/ CSS/ JSON/ node.js/ react.js/ express.js/ AWS (EC2, S3, RDS, Lambda, IAM, SNS, Cloud watch, VPC)/ Swagger/ Jenkins/ Docker/ RESTful web services
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my coding skills!! 
+- 🌱 I’m currently learning everything :P 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/puneethcshetty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/puneethcshetty//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/puneeth_c_shetty/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/puneethshetty/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/puneethcshetty&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/puneethcshetty)  
