@@ -22,6 +22,6 @@ Skills: Java/ PHP/ Python/ JavaScript/ MongoDB/ Spring (Boot, MVC, Data, Batch)/
 <br />
 ### Connect with me:
 
-[<img width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/puneethcshetty)  [<img width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/puneethcshetty//)  [<img width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/puneeth_c_shetty/)  [<img width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/puneethshetty/)  
+[<img width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/puneethcshetty)  [<img width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/puneethcshetty/)  [<img width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/puneeth_c_shetty/)  [<img width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/puneethshetty/)  
 
 [website]: https://codeSTACKr.https://github.com/puneethcshetty
