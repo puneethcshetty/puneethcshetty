@@ -28,7 +28,9 @@ Skills: Java/ PHP/ Python/ JavaScript/ MongoDB/ Spring (Boot, MVC, Data, Batch)/
 ---
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=puneethcshetty&show_icons=true&hide_border=true" />
+<img align="left" alt="puneethcshetty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=puneethcshetty&show_icons=true&hide_border=true&theme=tokyonight" />
+<<img align="left" alt="puneethcshetty's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneethcshetty&layout=compact&theme=tokyonight" />
+
 
 [website]: https://github.com/puneethcshetty
 [linkedIn]: https://www.linkedin.com/in/puneethcshetty
