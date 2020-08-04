@@ -28,8 +28,8 @@ Skills: Java/ PHP/ Python/ JavaScript/ MongoDB/ Spring (Boot, MVC, Data, Batch)/
 ---
 
 
-<img align="left" alt="puneethcshetty's Github Stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=puneethcshetty&show_icons=true&hide_border=true&theme=tokyonight" />
-<img align="left" alt="puneethcshetty's Github Stats" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneethcshetty&layout=compact&theme=tokyonight" />
+<img align="left" alt="puneethcshetty's Github Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=puneethcshetty&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="puneethcshetty's Github Stats" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneethcshetty&layout=compact&theme=tokyonight" />
 
 
 [website]: https://github.com/puneethcshetty
